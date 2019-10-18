@@ -2,7 +2,7 @@
 
 ### *Holt JR, Styer A, White J, Armstrong JS, Nibouche S, Costet L, Malacrinò A, Antwi JB, Wulff J, Peterson G,  McLaren N, Medina RF*
 
-#### Annals of the Entomological Society of America, 20xx. DOI: 
+#### Journal, 20xx. DOI: 
 
 This is code to replicate the analyses reported in our manuscript. Code developed by Antonino Malacrinò (antonino.malacrino 'at' gmail 'dot' com) | 2019
 
