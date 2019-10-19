@@ -26,7 +26,7 @@ Data handling was carried out using QIIME 1.9 (Caporaso et al. 2010, Caporaso et
 
 #### Data
 
-Raw data is available at NCBI SRA under Bioproject XXX
+Raw data is available at NCBI SRA under Bioproject PRJNA578411
 
 #### Metadata
 
