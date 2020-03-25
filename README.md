@@ -2,17 +2,14 @@
 
 ### *Holt JR, Styer A, White J, Armstrong JS, Nibouche S, Costet L, Malacrinò A, Antwi JB, Wulff J, Peterson G,  McLaren N, Medina RF*
 
-#### Journal, 20xx. DOI: 
+#### Annals of the Entomological Society of America, 2020. DOI: 10.1093/aesa/saaa003
 
 This is code to replicate the analyses reported in our manuscript. Code developed by Antonino Malacrinò (antonino.malacrino 'at' gmail 'dot' com) | 2019
 
 
 
 ### Abstract 
-
-
-
-
+The sugarcane aphid (SCA), Melanaphis Sacchari (Zehntner) (Hemiptera: Aphididae), has been considered an invasive pest of sugarcane in the continental United States since 1977. Then, in 2013, SCA abruptly became a serious pest of U.S. sorghum and is now a sorghum pest in 22 states across the continental United States. Changes in insect-associated microbial community composition are known to influence host-plant range in aphids. In this study, we assessed whether changes in microbiota composition may explain the SCA outbreak in U.S. sorghum. We characterized the SCA bacterial microbiota on sugarcane and grain sorghum in four U.S. states, using a metabarcoding approach. In addition, we used taxon-specific polymerase chain reaction (PCR) primers to screen for bacteria commonly reported in aphid species. As anticipated, all SCA harbored the primary aphid endosymbiont Buchnera aphidicola, an obligate mutualistic bacterial symbiont. Interestingly, none of the secondary symbionts, facultative bacteria typically associated with aphids (e.g., Arsenophonus, Hamiltonella, Regiella) were present in either the metabarcoding data or PCR screens (with the exception of Rickettsiella and Serratia, which were detected by metabarcoding at low abundances <1%). However, our metabarcoding detected bacteria not previously identified in aphids (Arcobacter, Bifidobacterium, Citrobacter). Lastly, we found microbial host-associated differentiation in aphids that seems to correspond to genetically distinct aphid lineages that prefer to feed on grain sorghum (MLL-F) versus sugarcane (MLL-D).
 
 ### Library Description
 
@@ -46,12 +43,12 @@ Raw data is available at NCBI SRA under Bioproject PRJNA578411
 | LA.SC.2007.2009 | Sample      | Louisiana    | Sugarcane     |
 | LA.SC.2015      | Sample      | Louisiana    | Sugarcane     |
 | TX.SC.2015      | Sample      | Texas        | Sugarcane     |
-| Control.1*      | Control     | Control      | Control       |
-| Control.2**     | Control     | Control      | Control       |
+| Control.1§      | Control     | Control      | Control       |
+| Control.2§§     | Control     | Control      | Control       |
 
-*DNA extraction without aphids
+§DNA extraction without aphids
 
-**DNA extraction from solution after washing all aphids
+§§DNA extraction from solution after washing all aphids
 
 #### Load packages
 
